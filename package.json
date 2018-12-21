@@ -1,8 +1,8 @@
 {
   "name": "sticky-sidebar-es5",
   "version": "1.0.0",
-  "description": "",
-  "main": "sticky-sidebar-es5.js",
+  "description": "ng sidebar floating",
+  "main": "dist/sticky-sidebar.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,4 @@
     "url": "https://github.com/vipul-bravvura/sticky-sidebar-es5/issues"
   },
   "homepage": "https://github.com/vipul-bravvura/sticky-sidebar-es5#readme"
-
-  
 }
